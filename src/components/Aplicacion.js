@@ -3,7 +3,7 @@ import Productos from './Productos';
 import Header from './Header'
 import Footer from './Footer'
 
-class Aplicacion extends React.Component{
+class Aplicacion extends React.Component {
     render() {
         const productos = [
             {nombre: 'Libro', precio: 200},
